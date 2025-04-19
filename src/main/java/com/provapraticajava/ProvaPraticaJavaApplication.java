@@ -1,4 +1,4 @@
-package com.example.provapraticajava;
+package com.provapraticajava;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
